@@ -8,3 +8,4 @@ Features:
 * Delete/update posts
 * Password reset
 * Email sending
+* Modified error pages
