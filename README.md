@@ -1,3 +1,2 @@
-# smallest-flask-blog-blueprint
-Created for my own learning purpose. 
-Used SQLAlchemy for SQLite
+# Smallest Flask Blog
+Created for my own learning purpose. </br>Used SQLAlchemy for SQLite
